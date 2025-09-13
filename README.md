@@ -11,8 +11,7 @@
 ├─ train_data/                # 可選：訓練/驗證彙整
 ├─ output_data/               # 可選：原始/中間輸出
 ├─ cleaned_data2.0.csv        # 範例資料（含 Signal, BPM, Status）
-├─ fatigue_prediction_model.keras   # ✅ 已訓練模型
-└─ （可選）scaler.joblib / model.meta.json
+└─ fatigue_prediction_model.keras   # ✅ 已訓練模型
 ```
 
 ---
