@@ -2,7 +2,7 @@
 
 這個專案已包含訓練完成的 **Keras 完整模型**：`fatigue_prediction_model.keras`（結構＋權重）。  
 模型以兩個特徵 **Signal、BPM** 預測 `Fatigue`（0=Normal, 1=Fatigue），可直接在本機推論，或匯出 **ONNX** 給 App 使用。
-原始資料採用 Arduino Pulse sensor做訊號量測，約莫量測10分鐘左右，未來可擴大資料量，並記錄運動完與與運動前，早/中/晚的特徵數據。
+原始資料採用 Arduino Pulse sensor 做訊號量測，約莫量測10分鐘左右，未來可擴大資料量，並記錄運動完與與運動前，早/中/晚的特徵數據。
 
 ---
 
