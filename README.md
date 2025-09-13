@@ -7,7 +7,6 @@
 
 ## 目錄（最小化）
 ```
-/  （把本 README 放在與模型同一層）
 ├─ cleaned_train_data/        # 可選：清理後資料
 ├─ train_data/                # 可選：訓練/驗證彙整
 ├─ output_data/               # 可選：原始/中間輸出
